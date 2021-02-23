@@ -1,0 +1,2 @@
+.staminaButton{cursor:pointer;color:#000;background-color:#4caf50;border-radius:15pt;box-shadow:0 40px #999;display:inline-block;width:100pt;height:100pt;text-align:center;vertical-align:middle;line-height:100pt;font-size:60pt}.pressAnimation{animation:click_animation .4s ease-in-out normal}@keyframes click_animation{0%{transform:translateY(0);box-shadow:0 40px #999}50%{transform:translateY(40px);box-shadow:0 0 #999}to{transform:translateY(0);box-shadow:0 40px #999}}
+/*# sourceMappingURL=main.a2556258.chunk.css.map */
